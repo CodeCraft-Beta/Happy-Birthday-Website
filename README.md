@@ -7,7 +7,7 @@ Watch more Website Template in my Website.
 
 **Live Demo** - https://codecraft-beta.github.io/Happy-Birthday-Website/
 
-**Website Video** - https://youtu.be/uv9mjasTcyc
+**Website Video** - https://youtu.be/yZOF7q1cGw4
 
 # CodeCraft-Beta
 
