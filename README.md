@@ -17,7 +17,7 @@ This is a Beauty-and-Spa-Responsive Website. I am make Following Section in this
 
 Watch more Website Template in my Website.
 
-**Live Demo** - https://codecraft-beta.github.io/Beauty-and-Spa-Responsive/
+**Live Demo** - https://codecraft-beta.github.io/Happy-Birthday-Website/
 
 **Website Video** - https://youtu.be/uv9mjasTcyc
 
