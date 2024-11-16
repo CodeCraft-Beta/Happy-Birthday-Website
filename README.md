@@ -1,19 +1,7 @@
-# Beauty-and-Spa-Responsive Website
-This is a Beauty-and-Spa-Responsive Website. I am make Following Section in this Website.
+# Happy Birthday Website
+This is a Happy Birthday Website. I am make Following Section in this Website.
 
 **Home**
-
-**Services**
-
-**About**
-
-**Team**
-
-**Gallery**
-
-**Pricing**
-
-**Contact**
 
 Watch more Website Template in my Website.
 
