@@ -9,6 +9,8 @@ Watch more Website Template in my Website.
 
 **Website Video** - https://youtu.be/yZOF7q1cGw4
 
+**Website View** - https://designcraft.odoo.com/happy-birthday-website
+
 # CodeCraft-Beta
 
 This Github Account is Made Website Templates, Everyone Preview any Website Template and also Download the Templates.
